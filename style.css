@@ -1,0 +1,49 @@
+*{
+    /* border: 1px solid red; */
+}
+
+body {
+    margin: 0;
+}
+
+#Text1 {
+    color: aliceblue;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 10px;
+    border-radius: 5px;
+
+}
+
+#Image {
+    position: relative;
+}
+
+#Text2{
+    color: aliceblue;
+    position: absolute;
+   top: 50%;
+    left: 35%;
+}
+
+.listname {
+   ;
+}
+
+#list1 {
+   border: 1px solid ;
+   border-radius: 5px;
+   list-style: none;
+}
+
+#list2 {
+   list-style: none;
+   border-bottom: 1px;
+}
+
+#navmenu {
+    ;
+}
+
